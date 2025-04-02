@@ -1,2 +1,3 @@
 my first commit where I am learning tech 
 on my first week i have been able to do something 
+i am about to try git pull from github on my own for the first time 
